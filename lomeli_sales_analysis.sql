@@ -10,7 +10,7 @@ SELECT *
 FROM management
 WHERE SalesManager = 'See Ellefson';
 
--- Q1: Total revenue + the syaty and end date of the sales data 
+-- Q1: Total revenue + the start and end date of the sales data 
 SELECT
 	SUM(ss.sale_amount) AS total_revenue,
 	MIN(ss.transaction_date) AS start_date,
