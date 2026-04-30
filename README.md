@@ -7,3 +7,5 @@ optimize sale strategies and improve the overall performance within the territor
 with using Excel pivot tables and charts. 
 
 Technologies used: MySQL, Excel, Github
+
+Here is my video link: https://drive.google.com/file/d/1Yose9JvXv8HiLHb2LHDYjDS4lGLGNilm/view?usp=sharing
