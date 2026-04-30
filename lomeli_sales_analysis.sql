@@ -84,7 +84,7 @@ WHERE sl.State = 'New York'
 GROUP BY ss.store_id, sl.StoreLocation, sl.State
 ORDER BY total_revenue DESC;
 
--- Q6: Recommendation for where to focus sales attetion next quarter
+-- Q6: Recommendation for where to focus sales attention next quarter
 -- I highly recommend focusing on Technology and Accessories mainly because it has the highest average
 -- transaction size and strong revenue potential. We can increase marketing efforts, promotions, and inventory 
 -- for this category causing it to boost its overall revenue. Overall I feel like improving lower performing 
